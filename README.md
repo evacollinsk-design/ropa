@@ -1,20 +1,6 @@
-# Sahil's Personal Image Consultation
+# Ropa - Image Consultation
 
 Professional color analysis and wardrobe recommendations for Indo-Western attire.
-
-## Quick Deploy to Vercel
-
-1. **Sign up for Vercel** (if you haven't):
-   - Go to https://vercel.com/signup
-   - Choose "Hobby" plan (free)
-   - Sign up with GitHub, GitLab, or Email
-
-2. **Deploy this site**:
-   - Click "Add New" → "Project"
-   - Drag and drop this entire folder, OR
-   - Upload via GitHub (recommended)
-
-3. **Your site will be live** at: `your-project-name.vercel.app`
 
 ## Files Included
 
